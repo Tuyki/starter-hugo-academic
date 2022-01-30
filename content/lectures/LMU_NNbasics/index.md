@@ -8,7 +8,7 @@ date: "2021-11-11T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-links: static/uploads/LMU_2021_MathPrimer.pdf
+links: uploads/LMU_2021_MathPrimer.pdf
 url_code: ""
 url_pdf: ""
 url_slides: ""
