@@ -3,10 +3,7 @@ title: Generative Models, LMU 2019-
 summary: Variational Autoencoders and Generative Adversarial Nets. 
 # tags:
 # - Deep Learning
-date: "2021-11-11T00:00:00Z"
-
-content:
-  Slides follow. 
+date: "2021-11-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -24,3 +21,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+I give this guest lecture as part of ["Deep Learning and AI"](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1920/index.html) since winter semester 2019, at LMU Munich for master students in computer science and similar majors. 
+The major topics of this lecture include
+- Variational Autoencoders
+- Generative Adversarial Nets and variants such as CGAN, CycleGAN, etc. 
+
+{{% staticref "uploads/LMU_2021_Generative.pdf" %}}The complete lecture slides.{{% /staticref %}}
