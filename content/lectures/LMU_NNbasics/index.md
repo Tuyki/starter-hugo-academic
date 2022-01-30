@@ -26,7 +26,7 @@ I give this guest lecture as part of ["Deep Learning and AI"](https://www.dbs.if
 The major topics of this lecture include
 - Recapping a few topics in probability theory that are most relevant for DL: MLE and MAE. 
 - Recapping optimization methods, gradien-free, first- and second-gradient methods. 
-- Giving an introduction to automatic differentiation. 
-- Giving a *over-simplified* intro to the challenges and solutions in the course of NN's history.
+- An introduction to automatic differentiation. 
+- An *over-simplified* intro to the challenges and solutions in the course of NN's history.
 
 {{% staticref "uploads/LMU_2021_MathPrimer.pdf" %}}The complete lecture slides.{{% /staticref %}}

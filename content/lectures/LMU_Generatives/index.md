@@ -24,7 +24,7 @@ url_video: ""
 
 I give this guest lecture as part of ["Deep Learning and AI"](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1920/index.html) since winter semester 2019, at LMU Munich for master students in computer science and similar majors. 
 The major topics of this lecture include
-- Variational Autoencoders
-- Generative Adversarial Nets and variants such as CGAN, CycleGAN, etc. 
+- Introduction to Variational Autoencoders
+- Introduction to Generative Adversarial Nets and variants such as CGAN, CycleGAN, etc. 
 
 {{% staticref "uploads/LMU_2021_Generative.pdf" %}}The complete lecture slides.{{% /staticref %}}
