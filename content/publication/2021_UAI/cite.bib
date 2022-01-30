@@ -1,8 +1,15 @@
-@inproceedings{example1,
-  title={An example conference paper},
-  author={Bighetti, Nelson and Ford, Robert},
-  booktitle={Source Themes Conference},
-  pages={1--6},
-  year={2013},
-  organization={IEEE}
+@InProceedings{pmlr-v161-yang21a,
+  title = 	 {Multi-output Gaussian Processes for uncertainty-aware recommender systems},
+  author =       {Yang, Yinchong and Buettner, Florian},
+  booktitle = 	 {Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence},
+  pages = 	 {1505--1514},
+  year = 	 {2021},
+  editor = 	 {de Campos, Cassio and Maathuis, Marloes H.},
+  volume = 	 {161},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {27--30 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v161/yang21a/yang21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v161/yang21a.html},
+  abstract = 	 {Recommender systems are often designed based on a collaborative filtering approach, where user preferences are predicted by modelling interactions between users and items. Many common approaches to solve the collaborative filtering task are based on learning representations of users and items, including simple matrix factorization, Gaussian process latent variable models, and neural-network based embeddings. While matrix factorization approaches fail to model nonlinear relations, neural networks can potentially capture such complex relations with unprecedented predictive power and are highly scalable. However, neither of them is able to model predictive uncertainties. In contrast, Gaussian Process based models can generate a predictive distribution, but cannot scale to large amounts of data. In this manuscript, we propose a novel approach combining the representation learning paradigm of collaborative filtering with multi-output Gaussian processes in a joint framework to generate uncertainty-aware recommendations. We introduce an efficient strategy for model training and inference, resulting in a model that scales to very large and sparse datasets and achieves competitive performance in terms of classical metrics quantifying the reconstruction error. In addition to accurately predicting user preferences, our model also provides meaningful uncertainty estimates about that prediction.}
 }
