@@ -14,7 +14,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
-I give this guest lecture as part of ["Deep Learning and AI"](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1920/index.html) since winter semester 2019, at LMU Munich for master students in computer science and similar majors. 
+I give this guest lecture as part of ["Deep Learning and AI"](www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1920/index.html) since winter semester 2019, at LMU Munich for master students in computer science and similar majors. 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
