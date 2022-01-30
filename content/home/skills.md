@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
+- description: 90%
   icon: cog
   icon_pack: fas
   name: Machine Learning
-- description: 90%
+- description: 80%
   icon: chart-line
   icon_pack: fas
   name: Statistical Modeling
-- description: 75%
+- description: 70%
   icon: feather
   icon_pack: fas
-  name: calligraphy
+  name: Calligraphy
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
