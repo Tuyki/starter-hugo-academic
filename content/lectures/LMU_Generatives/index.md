@@ -11,7 +11,7 @@ content:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-links:
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
