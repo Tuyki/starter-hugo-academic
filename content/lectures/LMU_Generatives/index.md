@@ -27,4 +27,4 @@ The major topics of this lecture include
 - Introduction to Variational Autoencoders
 - Introduction to Generative Adversarial Nets and variants such as CGAN, CycleGAN, etc. 
 
-{{% staticref "uploads/LMU_2021_Generative.pdf" %}}The complete lecture slides.{{% /staticref %}}
+{{% staticref "uploads/LMU_2020_Generative.pdf" %}}The complete lecture slides.{{% /staticref %}}
