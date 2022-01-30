@@ -14,6 +14,8 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+I give this guest lecture as part of ["Deep Learning and AI"](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1920/index.html) since winter semester 2019, at LMU Munich for master students in computer science and similar majors. 
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -22,4 +24,4 @@ url_video: ""
 # slides: example
 ---
 
-{{% staticref "LMU_2021_MathPrimer.pdf" %}}The complete lecture slides.{{% /staticref %}}
+{{% staticref "uploads/LMU_2021_MathPrimer.pdf" %}}The complete lecture slides.{{% /staticref %}}
