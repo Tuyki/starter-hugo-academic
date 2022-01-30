@@ -1,5 +1,5 @@
 ---
-title: Uncertainty in Deep Learning, LMU 2019-
+title: Uncertainty in Deep Learning, LMU 2021-
 summary: Including Markov-Chain Monte-Carlo methods and Variational Inference on Bayesian Neural Networks. 
 # tags:
 # - Deep Learning
