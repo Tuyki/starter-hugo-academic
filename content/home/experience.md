@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Scientist
     company: Siemens AG
-    company_url: 'www.siemens.com'
+    company_url: ''
     # company_logo: org-gc
     location: Munich
     date_start: '2018-04-01'
@@ -36,7 +36,7 @@ experience:
         
   - title: Doctoral candidate
     company: Siemens AG
-    company_url: 'www.siemens.com'
+    company_url: ''
     # company_logo: org-gc
     location: Munich
     date_start: '2015-04-01'
@@ -48,7 +48,7 @@ experience:
 
   - title: Intern, working student and master thesis
     company: PwC Deutschland
-    company_url: 'www.pwc.de'
+    company_url: ''
     # company_logo: org-gc
     location: Stuttgart, Munich
     date_start: '2013-10-01'
@@ -60,7 +60,7 @@ experience:
 
   - title: Working student and master thesis
     company: Infineon
-    company_url: 'www.infineon.com'
+    company_url: ''
     # company_logo: org-gc
     location: Munich
     date_start: '2011-07-01'
