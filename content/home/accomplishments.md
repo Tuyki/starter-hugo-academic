@@ -65,7 +65,7 @@ item:
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/Y3JYBA8GPFPM
   date_end: ""
-  date_start: "2022-03-01"
+  date_start: "2021-03-01"
   description: ""
   organization: Google
   organization_url: https://www.stanford.edu/
