@@ -72,4 +72,4 @@ highlight_name: true
 
 I am a research scientist of machine learning at Siemens. My current research interests include robustness, uncertainty quantification, and tensor decomposition methods.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
