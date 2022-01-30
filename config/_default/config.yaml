@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yinchong Yang # Website name
+title: Dr. Yinchong Yang # Website name
 baseurl: 'https://www.yinchong-yang.de/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
