@@ -5,6 +5,9 @@ summary: Variational Autoencoders and Generative Adversarial Nets.
 # - Deep Learning
 date: "2021-11-11T00:00:00Z"
 
+content:
+  Slides follow. 
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -13,8 +16,6 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-Slides follow. 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
