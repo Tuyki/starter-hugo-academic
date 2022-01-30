@@ -25,7 +25,7 @@ experience:
   - title: Research Scientist
     company: Siemens AG
     company_url: 'www.siemens.com'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Munich
     date_start: '2018-04-01'
     date_end: ''
@@ -37,7 +37,7 @@ experience:
   - title: Doctoral candidate
     company: Siemens AG
     company_url: 'www.siemens.com'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Munich
     date_start: '2015-04-01'
     date_end: '2018-03-31'
@@ -49,7 +49,7 @@ experience:
   - title: Intern, working student and master thesis
     company: PwC Deutschland
     company_url: 'www.pwc.de'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Stuttgart, Munich
     date_start: '2013-10-01'
     date_end: '2015-01-31'
@@ -61,22 +61,22 @@ experience:
   - title: Working student and master thesis
     company: Infineon
     company_url: 'www.infineon.com'
-    company_logo: org-gc
+    # company_logo: org-gc
     location: Munich
     date_start: '2011-07-01'
     date_end: '2013-09-30'
     description: |2-
         Support in developing statistical methods for quality management.
 
-  - title: Intern and working student 
-    company: Stat-Up Data Science Consulting
-    company_url: 'www.stat-up.com'
-    company_logo: org-gc
-    location: Munich
-    date_start: '2011-03-01'
-    date_end: '2012-08-31'
-    description: |2-
-        Support in developing R packages and data analysis.
+#   - title: Intern and working student 
+#     company: Stat-Up Data Science Consulting
+#     company_url: 'www.stat-up.com'
+#     company_logo: org-gc
+#     location: Munich
+#     date_start: '2011-03-01'
+#     date_end: '2012-08-31'
+#     description: |2-
+#         Support in developing R packages and data analysis.
         
 design:
   columns: '2'

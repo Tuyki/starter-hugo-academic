@@ -9,23 +9,23 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 'Recent & Upcoming Talks'
+title: 'Lectures'
 subtitle:
 
 content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    tag: ""
+    folders:
+      - lectures
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-    publication_type: ""
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
