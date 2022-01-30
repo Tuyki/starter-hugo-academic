@@ -23,7 +23,8 @@ url_video: ""
 ---
 
 I give this guest lecture as part of ["Deep Learning and AI"](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1920/index.html) since winter semester 2021, at LMU Munich for master students in computer science and similar majors. 
-The major topics of this lecture include
+
+The topics include
 - Overview of different kinds of uncertainties. 
 - Introduction to Markov-Chain Monte-Carlo methods
 - Introduction to Variational Inference applied on Bayesian Neural Networks. 

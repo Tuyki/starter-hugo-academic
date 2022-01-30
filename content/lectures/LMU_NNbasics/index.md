@@ -23,7 +23,8 @@ url_video: ""
 ---
 
 I give this guest lecture as part of ["Deep Learning and AI"](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/deep1920/index.html) since winter semester 2019, at LMU Munich for master students in computer science and similar majors. 
-The major topics of this lecture include
+
+The topics include
 - Recapping a few topics in probability theory that are most relevant for DL: MLE and MAE. 
 - Recapping optimization methods, gradien-free, first- and second-gradient methods. 
 - An introduction to automatic differentiation. 
