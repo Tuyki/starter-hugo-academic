@@ -23,29 +23,53 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/CYQUXADYKH5T
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2022-01-22"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: London Imperial College
+  organization_url: https://www.imperial.ac.uk/
+  title: Probabilistic Deep Learning with TensorFlow 2
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/A72Y67KEAKSF
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2020-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: National Research University Higher School of Economics
+  organization_url: http://www.hse.ru/en
+  title: Bayesian Methods for Machine Learning
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/HDRE5L8RX49M
+  date_end: ""
+  date_start: "2019-03-01"
+  description: ""
+  organization: Stanford University
+  organization_url: https://www.stanford.edu/
+  title: Convolutional Neural Networks
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/2RET8P3V79YU
+  date_end: ""
+  date_start: "2019-03-01"
+  description: ""
+  organization: Stanford University
+  organization_url: https://www.stanford.edu/
+  title: Sequence Models
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/DLGFZB3Y7M2W
+  date_end: ""
+  date_start: "2018-11-01"
+  description: ""
+  organization: Stanford University
+  organization_url: https://www.stanford.edu/
+  title: Improving Deep Neural Networks -Hyperparameter Tuning, Regularization and Optimization
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/Y3JYBA8GPFPM
+  date_end: ""
+  date_start: "2022-03-01"
+  description: ""
+  organization: Google
+  organization_url: https://www.stanford.edu/
+  title: Google IT Automation with Python Specialization
   url: ""
 
 design:
