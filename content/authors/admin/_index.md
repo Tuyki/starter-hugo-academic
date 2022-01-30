@@ -70,5 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-I am a research scientist of machine learning at Siemens. My current research interests include robustness, uncertainty quantification, and tensor decomposition methods.
-
+My name is Yinchong Yang (杨寅翀). I am a research scientist of machine learning at Siemens. My current research interests include robustness, uncertainty quantification, and tensor decomposition methods.
