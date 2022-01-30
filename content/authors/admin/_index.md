@@ -6,7 +6,7 @@ title: Yinchong Yang
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist of Artificial Intelligence
+role: Research Scientist of Trustworthy Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,7 +31,7 @@ education:
   - course: M.Sc. in statistics
     institution: LMU Munich
     year: 2015
-  - course: B.Sc. in statistics, minor in computer science
+  - course: B.Sc. in statistics
     institution: LMU Munich
     year: 2012
 
