@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: Dr. rer. nat. in computer science
-    institution: [LMU Munich](https://www.lmu.de/de/index.html)
+    institution: LMU Munich
     year: 2018
   - course: M.Sc. in statistics
-    institution: [LMU Munich](https://www.lmu.de/de/index.html)
+    institution: LMU Munich
     year: 2015
   - course: B.Sc. in statistics
-    institution: [LMU Munich](https://www.lmu.de/de/index.html)
+    institution: LMU Munich
     year: 2012
 
 # Social/Academic Networking
