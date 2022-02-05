@@ -18,21 +18,21 @@ bio: My research interests include trustworthy AI and tensor decomposition in ma
 
 # Interests to show in About widget
 interests:
-- Machine learning in general
-- Robustness and uncertainty quantification in machine learning
+- Machine learning and artificial intelligence.
+- Robustness and uncertainty quantification in machine learning.
 - Tensor decomposition and its application in machine learning
 
 # Education to show in About widget
 education:
   courses:
   - course: Dr. rer. nat. in computer science
-    institution: LMU Munich
+    institution: [LMU Munich](https://www.lmu.de/de/index.html)
     year: 2018
   - course: M.Sc. in statistics
-    institution: LMU Munich
+    institution: [LMU Munich](https://www.lmu.de/de/index.html)
     year: 2015
   - course: B.Sc. in statistics
-    institution: LMU Munich
+    institution: [LMU Munich](https://www.lmu.de/de/index.html)
     year: 2012
 
 # Social/Academic Networking
@@ -70,4 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-My name is Yinchong Yang (杨寅翀). I am a research scientist of machine learning at Siemens. My current research interests include robustness, uncertainty quantification, and tensor decomposition methods.
+My name is Yinchong Yang (杨寅翀). I am a research scientist of machine learning at Siemens. My current research interests include robustness, uncertainty quantification, and tensor decomposition methods in machine learning.
