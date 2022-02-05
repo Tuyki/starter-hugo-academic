@@ -6,7 +6,7 @@ title: Uncertainty-Aware Time-to-Event Prediction using Deep Kernel Accelerated 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Zhiliang Wu, 
-- admin
+- Yinchong Yang
 - Peter A. Fasching 
 - Volker Tresp
 

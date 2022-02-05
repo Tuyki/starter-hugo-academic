@@ -6,7 +6,7 @@ title: Quantifying Predictive Uncertainty in Medical Image Analysis with Deep Ke
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Zhiliang Wu, 
-- admin
+- Yinchong Yang
 - Jindong Gu
 - Volker Tresp
 
