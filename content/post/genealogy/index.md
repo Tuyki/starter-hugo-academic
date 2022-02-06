@@ -303,8 +303,8 @@ Here I use the [igraph](https://igraph.org/python/) package.
 Obviously, each vertex is a mathematician and the edge is added between him/her and every of his/her advisors. 
 It is important to apply the [Reingold–Tilford algorithm](https://www.reingold.co/tidier-drawings.pdf) to calculate the layout, so that the visualized graph has a family-tree kind of favor. 
 
-I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png for preview: 
-<img src="https://yinchong-yang.de/uploads/tree_YY.png" alt="My Academic Family Tree">
+I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png out of it for preview: 
+<a href="https://yinchong-yang.de/uploads/tree_YY.png"><img src="https://yinchong-yang.de/uploads/tree_YY.png" alt="My Academic Family Tree"></a>
 
 In the family tree, I also include the year of his/her dissertations. 
 There is no easy way to visualize the country where the dissertation was finished though. 
@@ -326,5 +326,5 @@ So I was wondering, if there's any connection between these two patterns. So I d
 This confirms my hypothesis: my ancestors indeed worked in Germany between the 15th and 17th centuries. 
 Since my own advisor, [Prof. Dr. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/), finished his PhD in the United States, I have quite a number of close relatives from there. 
 Traveling back in time, it is interesting to see that the center of mathematics moved from Germany via Italy and Greece to Iran. 
-The very first ancestor that one could track down is Sharaf al-Din al-Tusi, an iranian mathematician and astronomer of the Islamic Golden Age. 
+The very first ancestor that one could track down is Sharaf al-Din al-Tusi, an Iranian mathematician and astronomer of the Islamic Golden Age. 
 [Wikipedia](https://en.wikipedia.org/wiki/Sharaf_al-Din_al-Tusi), "most mathematicians today can trace their lineage back to him". 
