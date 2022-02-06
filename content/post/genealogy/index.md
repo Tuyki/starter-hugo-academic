@@ -331,4 +331,5 @@ This confirms my hypothesis: my ancestors indeed worked in Germany between the 1
 Since my own advisor, [Prof. Dr. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/), finished his PhD in the United States, I have quite a number of close relatives from there. 
 Traveling back in time, it is interesting to see that the center of mathematics moved from Germany via Italy and Greece to Iran. 
 The very first ancestor that one could track down is Sharaf al-Din al-Tusi, an Iranian mathematician and astronomer of the Islamic Golden Age. 
-[Wikipedia](https://en.wikipedia.org/wiki/Sharaf_al-Din_al-Tusi), "most mathematicians today can trace their lineage back to him". 
+According to [Wikipedia](https://en.wikipedia.org/wiki/Sharaf_al-Din_al-Tusi), 
+> "most mathematicians today can trace their lineage back to him". 
