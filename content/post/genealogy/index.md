@@ -309,7 +309,7 @@ I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png
 
 ## Discussion
 
-In the family tree, I also include the year of his/her dissertations. 
+In the family tree, I also include the year of each individual's dissertations. 
 There is no easy way to visualize the country where the dissertation was finished though. 
 The shortcut I took, which is inspired by the genealogy project, is to plot the national flag. 
 Apparently this is not always correct since the national flag, as well as the nation, changes in the course of history. 
