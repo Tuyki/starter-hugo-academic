@@ -224,7 +224,6 @@ with open(DATA_PATH+"persons.csv", mode="w", encoding="utf-8") as the_file:
 for i, page_name in enumerate(page_list): 
     if ".html" in page_name: 
         person_info = extract_info(page_name, DATA_PATH)
-        # print(person_info)
         with open(DATA_PATH+"persons.csv", mode="a", encoding="utf-8") as the_file:
             the_file.write(person_info+'\n')
 
@@ -330,6 +329,6 @@ So I was wondering, if there's any connection between these two patterns. So I d
 This confirms my hypothesis: my ancestors indeed worked in Germany between the 15th and 17th centuries. 
 Since my own advisor, [Prof. Dr. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/), finished his PhD in the United States, I have quite a number of close relatives from there. 
 Traveling back in time, it is interesting to see that the center of mathematics moved from Germany via Italy and Greece to Iran. 
-The very first ancestor that one could track down is Sharaf al-Din al-Tusi, an Iranian mathematician and astronomer of the Islamic Golden Age. 
+The very first ancestor that one could track down is Sharaf al-Din al-Tusi, an Iranian mathematician and astronomer of the Islamic Golden Age (although the Genealogy project does not register this piece of information). 
 According to [Wikipedia](https://en.wikipedia.org/wiki/Sharaf_al-Din_al-Tusi), 
 > "most mathematicians today can trace their lineage back to him". 
