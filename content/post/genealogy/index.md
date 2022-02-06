@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'My Academic Family Tree. [Full PDF](https://yinchong-yang.de/uploads/tree_YY.pdf)'
+  caption: 'Preview'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -303,7 +303,28 @@ Here I use the [igraph](https://igraph.org/python/) package.
 Obviously, each vertex is a mathematician and the edge is added between him/her and every of his/her advisors. 
 It is important to apply the [Reingold–Tilford algorithm](https://www.reingold.co/tidier-drawings.pdf) to calculate the layout, so that the visualized graph has a family-tree kind of favor. 
 
-I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png for preview:
-<a href="https://yinchong-yang.de/uploads/tree_YY.png" title="Click for full size"></a>
+I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png for preview: 
+<img src="https://yinchong-yang.de/uploads/tree_YY.png" alt="My Academic Family Tree">
 
+In the family tree, I also include the year of his/her dissertations. 
+There is no easy way to visualize the country where the dissertation was finished though. 
+The shortcut I took, which is inspired by the genealogy project, is to plot the national flag. 
+Apparently this is not always correct since the national flag, as well as the nation, changes in the course of history. 
+But it does give us a first impression of the locations where we -my ancestors and I- conducted our research work. 
+<img src="https://yinchong-yang.de/uploads/genealogy_where.png" alt="Where">
 
+So Germany is the most popular choice of our ancestors (and of mine). 
+
+One could also visualize when we did our work, in 50-year intervals. 
+<img src="https://yinchong-yang.de/uploads/genealogy_when.png" alt="Where">
+
+Most of my ancestors lived and worked between the 15th and 17th centuries. 
+
+So I was wondering, if there's any connection between these two patterns. So I decompose the when by where: 
+<img src="https://yinchong-yang.de/uploads/genealogy_where_and_when.png" alt="WhereAndWhen">
+
+This confirms my hypothesis: my ancestors indeed worked in Germany between the 15th and 17th centuries. 
+Since my own advisor, [Prof. Dr. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/), finished his PhD in the United States, I have quite a number of close relatives from there. 
+Traveling back in time, it is interesting to see that the center of mathematics moved from Germany via Italy and Greece to Iran. 
+The very first ancestor that one could track down is Sharaf al-Din al-Tusi, an iranian mathematician and astronomer of the Islamic Golden Age. 
+[Wikipedia](https://en.wikipedia.org/wiki/Sharaf_al-Din_al-Tusi), "most mathematicians today can trace their lineage back to him". 
