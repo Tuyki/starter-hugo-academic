@@ -302,3 +302,8 @@ plt.savefig('tree.pdf', bbox_inches='tight')
 Here I use the [igraph](https://igraph.org/python/) package. 
 Obviously, each vertex is a mathematician and the edge is added between him/her and every of his/her advisors. 
 It is important to apply the [Reingold–Tilford algorithm](https://www.reingold.co/tidier-drawings.pdf) to calculate the layout, so that the visualized graph has a family-tree kind of favor. 
+
+I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png for preview:
+<a href="https://yinchong-yang.de/uploads/tree_YY.png" title="Click for full size"></a>
+
+
