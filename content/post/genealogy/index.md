@@ -326,7 +326,7 @@ Most of my ancestors lived and worked between the 15th and 17th centuries.
 So I was wondering, if there's any connection between these two patterns. So I decompose the when by where: 
 <img src="https://yinchong-yang.de/uploads/genealogy_where_and_when.png" alt="WhereAndWhen">
 
-This confirms my hypothesis: my ancestors indeed worked in Germany between the 15th and 17th centuries. 
+This confirms my hypothesis: many of my ancestors indeed worked in Germany between the 15th and 17th centuries. 
 Since my own advisor, [Prof. Dr. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/), finished his PhD in the United States, I have quite a number of close relatives from there. 
 Traveling back in time, it is interesting to see that the center of mathematics moved from Germany via Italy and Greece to Iran. 
 The very first ancestor that one could track down is Sharaf al-Din al-Tusi, an Iranian mathematician and astronomer of the Islamic Golden Age (although the Genealogy project does not register this piece of information). 
