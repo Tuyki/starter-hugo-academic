@@ -316,7 +316,7 @@ Apparently this is not always correct since the national flag, as well as the na
 But it does give us a first impression of the locations where we -my ancestors and I- conducted our research work. 
 <img src="https://yinchong-yang.de/uploads/genealogy_where.png" alt="Where">
 
-So Germany is the most popular choice of our ancestors (and of mine). 
+So Germany is the most popular choice of my ancestors (and of mine). 
 
 One could also visualize when we did our work, in 50-year intervals. 
 <img src="https://yinchong-yang.de/uploads/genealogy_when.png" alt="Where">
