@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Posts
-subtitle: coming soon
+subtitle: 
 
 content:
   # Filter on criteria
