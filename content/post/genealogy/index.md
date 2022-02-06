@@ -38,9 +38,10 @@ categories:
 - Fun
 ---
 
-## Overview
+## Introduction
 
 The [Mathematics Genealogy Project](https://www.mathgenealogy.org/index.php) collects information about mathematicians in a broader sense such as statisticians, computer scientists, mathematical physicists, etc.. In this database one finds among others their dissertations and academic advisors, which enables tracking down one's academic ancestors throughout history. Sounds exciting doesn't it? However, the project only provides a querying interface via url. So I wrote a simple python script to query, organize and visualize the data.  
+
 
 ## Implementation
 The libraries and some global varialbes I would need:
@@ -305,6 +306,9 @@ It is important to apply the [Reingold–Tilford algorithm](https://www.reingold
 
 I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png out of it for preview: 
 <a href="https://yinchong-yang.de/uploads/tree_YY.png"><img src="https://yinchong-yang.de/uploads/tree_YY.png" alt="My Academic Family Tree"></a>
+
+
+## Discussion
 
 In the family tree, I also include the year of his/her dissertations. 
 There is no easy way to visualize the country where the dissertation was finished though. 
