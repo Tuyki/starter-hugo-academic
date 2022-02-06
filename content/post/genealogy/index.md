@@ -312,7 +312,7 @@ I first generate a [pdf](https://yinchong-yang.de/uploads/tree_YY.pdf) and a png
 In the family tree, I also include the year of each individual's dissertations. 
 There is no easy way to visualize the country where the dissertation was finished though. 
 The shortcut I took, which is inspired by the genealogy project, is to plot the national flag. 
-Apparently this is not always correct since the national flag, as well as the nation, changes in the course of history. 
+Apparently this is not always correct since the national flag, as well as the definition of that very nation, varies in the course of history. 
 But it does give us a first impression of the locations where we -my ancestors and I- conducted our research work. 
 <img src="https://yinchong-yang.de/uploads/genealogy_where.png" alt="Where">
 
