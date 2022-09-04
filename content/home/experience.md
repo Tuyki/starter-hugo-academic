@@ -22,17 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Key Expert for robust AI
+    company: Siemens AG
+    company_url: ''
+    # company_logo: org-gc
+    location: Munich
+    date_start: '2022-05-01'
+    date_end: ''
+    description: |2-
+        Research and Development in:
+        * Robustness quantification and certification in machine learning.
+        * Other methods for Trustworthy AI in industry, including uncertainty and explainability.  
+
   - title: Research Scientist
     company: Siemens AG
     company_url: ''
     # company_logo: org-gc
     location: Munich
     date_start: '2018-04-01'
-    date_end: ''
+    date_end: '2022-04-30'
     description: |2-
         Research and Development in:
-        * Modern AI (deep learning), computer vision.
-        * Trustworthy AI solutions for industry.
+        * Modern AI (deep learning), with focus on computer vision tasks.
+        * Uncertainty-aware knowledge graph modeling. 
         
   - title: Doctoral candidate
     company: Siemens AG
