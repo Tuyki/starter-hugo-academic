@@ -6,7 +6,7 @@ title: Dr. Yinchong Yang
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist of Trustworthy Artificial Intelligence
+role: Senior Key Expert of Robust Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,7 +19,7 @@ bio: My research interests include trustworthy AI and tensor decomposition in ma
 # Interests to show in About widget
 interests:
 - Machine learning and artificial intelligence.
-- Robustness and uncertainty quantification in machine learning.
+- Uncertainty, robustness quantification and certification in machine learning.
 - Tensor decomposition and its application in machine learning
 
 # Education to show in About widget
@@ -70,4 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-My name is Yinchong Yang (杨寅翀). I am a research scientist of machine learning at Siemens. My current research interests include robustness, uncertainty quantification, and tensor decomposition methods in machine learning.
+My name is Yinchong Yang (杨寅翀). I am a senior key expert of robust AI at Siemens. My current research interests include the quantification and certification of AI robustness and uncertainty. I'm also interested in tensor decomposition methods in machine learning, such tensorized neural networks and relational learning from tensor data. 
