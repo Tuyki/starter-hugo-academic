@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistical Modeling
-- description: 70%
-  icon: feather
-  icon_pack: fas
-  name: Calligraphy
+#- description: 70%
+#  icon: feather
+#  icon_pack: fas
+#  name: Calligraphy
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
