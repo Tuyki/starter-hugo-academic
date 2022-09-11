@@ -70,4 +70,4 @@ email: ""
 highlight_name: true
 ---
 
-My name is Yinchong Yang (杨寅翀). I am a senior key expert of robust AI at Siemens. My current research interests include the quantification and certification of AI robustness and uncertainty. I'm also interested in tensor decomposition methods in machine learning, such tensorized neural networks and relational learning from tensor data. 
+My name is Yinchong Yang (杨寅翀). I am a senior key expert of robust AI at Siemens. My current research interests include the quantification and certification of AI robustness and uncertainty. I'm also interested in tensor decomposition methods in machine learning, such as tensorized neural networks and relational learning from tensor data. 
