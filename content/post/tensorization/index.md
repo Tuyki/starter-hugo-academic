@@ -40,7 +40,7 @@ categories:
 
 ## Introduction
 
-First proposed by Novikov et al. 2015, tensorization of neural network aims to represent large weight matrices in neural networks with product of smaller, high dimensional tensors, which largely reduces the computational cost. For more details and applications please refer to my [talk](../../../static/uploads/CYI_Talk_2023.pdf). In this post, we see how easy it has become to implement such tensorized neural networks. 
+First proposed by Novikov et al. 2015, tensorization of neural network aims to represent large weight matrices in neural networks with product of smaller, high dimensional tensors, which largely reduces the computational cost. For more details and applications please refer to my [talk](uploads/CYI_Talk_2023.pdf). In this post, we see how easy it has become to implement such tensorized neural networks. 
 
 ## 1. Einstein summation notation. 
 
