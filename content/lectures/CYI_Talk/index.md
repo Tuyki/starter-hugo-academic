@@ -8,7 +8,7 @@ date: "2023-05-23T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-links: "https://www.cyi.ac.cy/index.php/component/k2/seminar-tensorization-and-uncertainty-quantification-in-deep-learning"
+links: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
